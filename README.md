@@ -41,3 +41,7 @@ Time (s),CH1 (V),CH2 (V),CH3 (V),CH4 (V)
 - Tested with Micsig MHO984 (RG03 format). Other Micsig models using the same format should work.
 - If channels appear swapped, toggle the **Data layout** option between `sequential` and `interleaved`.
 - Use the **Decymacja** field to downsample the CSV output (e.g. `10` = every 10th sample).
+
+
+License: eat, live and be marry. 
+@KJW
